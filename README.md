@@ -29,8 +29,9 @@ Bu proyektning maqsadi, Toshkentdagi sotilayotgan uylar haqidagi ma'lumotlar to'
    git clone https://github.com/IlhomJabborov/Real-estate-prices-in-Tashkent-Uzbekistan.git
    ```
    <br>
-2. [ " RealEstatePricesTashkent(EDA).ipynb " ] fayliga kirib, " Open in Colab " tugmasini bosish orqali Google Colab orqali online ishlatish ham mumkin.<br>
-3. . Ishlatildi :
+2. [ " RealEstatePricesTashkent(EDA).ipynb " ] fayliga kirib, " Open in Colab " tugmasini bosish orqali Google Colab orqali online ishlatish ham mumkin.
+<br>
+**Ishlatildi :**
    * Python 3.x
    * Pandas
    * Matplotlib
