@@ -31,7 +31,7 @@ Bu proyektning maqsadi, Toshkentdagi sotilayotgan uylar haqidagi ma'lumotlar to'
    <br>
 2. [ " RealEstatePricesTashkent(EDA).ipynb " ] fayliga kirib, " Open in Colab " tugmasini bosish orqali Google Colab orqali online ishlatish ham mumkin.
 <br>
-**Ishlatildi :**
+3.Ishlatildi :
    * Python 3.x
    * Pandas
    * Matplotlib
